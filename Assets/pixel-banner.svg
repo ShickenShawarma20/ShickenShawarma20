@@ -1,21 +1,51 @@
-<svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+<svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2ODIyMjU5OS1iZGVmLTRlMDUtYjkwZi02MzMwYTkzYWI2MGQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFjV7jUIFVJN/WYule9jGAgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmYmFjNmU2Ny05ZDdhLTRmZDctYTBiYS1iN2RlNWZlMDg5YTVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNonWsKVjKTxFKJ9KJG4Q17OgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg8ZCTfIpjc81EqOa7bsx1DhprplMrfTfBwUJZpgdT3/+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOICbzsDqAJYEPQ8jVXSZCUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCcqJU0LZVFZ4h8SR+1BGrOkI7jCyphlufdv6ILXZfJKGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBikZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjY4MjIyNTk5LWJkZWYtNGUwNS1iOTBmLTYzMzBhOTNhYjYwZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmNmZDFiZTEzLTFlN2MtNDc2OS04NGY0LTRmYTA0OTY0YTE2Y3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDxkJN8imNzzUSo5rtuzHUOGmumUyt9N8HBQlmmB1Pf/6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggTHgfTy6U35ko3MqVm4dL1ll3rA1XbmhgIGyGHiStNgiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggx9fT3EAa/3xTcLBHsGmKSwMsR9N7fSGzB1Ldaud4CYV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMlNTb22C2iwkdSwpbylxLZOjUwLKvbOaILfXLwZWj9N6zfiNKGJapvUizpCyP3syZAHsViD9nclobPnkGtUhGY=</c2pa:manifest></metadata>
   <defs>
-    <linearGradient id="floorGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#050505"/>
-      <stop offset="100%" stop-color="#151515"/>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0a1f"/>
+      <stop offset="55%" stop-color="#120b24"/>
+      <stop offset="100%" stop-color="#1a0b22"/>
     </linearGradient>
+    <linearGradient id="floorGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1b1036"/>
+      <stop offset="100%" stop-color="#0a0616"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#22d3ee"/>
+      <stop offset="25%"  stop-color="#818cf8"/>
+      <stop offset="50%"  stop-color="#c084fc"/>
+      <stop offset="75%"  stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <linearGradient id="lampGlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fde68a" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#fde68a" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="screenHalo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
   <style>
-    .bg { fill: #000000; }
-    .wall-line { stroke: #161616; stroke-width: 1; }
-    .white { fill: #ffffff; }
-    .lgray  { fill: #c9c9c9; }
-    .mgray  { fill: #8a8a8a; }
-    .dgray  { fill: #4a4a4a; }
-    .xdgray { fill: #262626; }
-    .screen { fill: #060606; }
-    .accent { fill: #ffffff; }
+    .wall-line { stroke: #2b1b4d; stroke-width: 1; }
+    .cyan   { fill: #22d3ee; }
+    .teal   { fill: #2dd4bf; }
+    .green  { fill: #34d399; }
+    .lime   { fill: #a3e635; }
+    .amber  { fill: #fbbf24; }
+    .orange { fill: #fb923c; }
+    .pink   { fill: #f472b6; }
+    .purple { fill: #a855f7; }
+    .violet { fill: #7c5cff; }
+    .indigo { fill: #4c3aa8; }
+    .blue   { fill: #3b82f6; }
+    .red    { fill: #f87171; }
+    .skin   { fill: #f2c6a0; }
+    .hair   { fill: #3b2a55; }
+    .wood   { fill: #8b5a2b; }
+    .wood-d { fill: #5c3a1c; }
+    .screen { fill: #08111c; }
+    .white  { fill: #ffffff; }
 
     @keyframes blink { 0%, 45% { opacity: 1; } 50%, 95% { opacity: 0; } 100% { opacity: 1; } }
     @keyframes typeArmR { 0%, 40% { transform: translateY(0px); } 50% { transform: translateY(5px); } 60%, 100% { transform: translateY(0px); } }
@@ -26,10 +56,11 @@
     @keyframes codeLine4 { 0% { opacity: 0; } 58% { opacity: 0; } 66% { opacity: 1; } 92% { opacity: 1; } 100% { opacity: 0; } }
     @keyframes codeLine5 { 0% { opacity: 0; } 70% { opacity: 0; } 78% { opacity: 1; } 96% { opacity: 1; } 100% { opacity: 0; } }
     @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-6px); } }
-    @keyframes glow { 0%, 100% { opacity: 0.45; } 50% { opacity: 0.9; } }
-    @keyframes steam { 0% { transform: translateY(0px); opacity: 0.8; } 100% { transform: translateY(-14px); opacity: 0; } }
+    @keyframes glow { 0%, 100% { opacity: 0.45; } 50% { opacity: 0.95; } }
+    @keyframes steam { 0% { transform: translateY(0px); opacity: 0.85; } 100% { transform: translateY(-14px); opacity: 0; } }
     @keyframes reveal { 0% { opacity: 0; } 5% { opacity: 1; } 100% { opacity: 1; } }
-    @keyframes flicker { 0%, 100% { opacity: 1; } 50% { opacity: 0.7; } }
+    @keyframes flicker { 0%, 100% { opacity: 1; } 50% { opacity: 0.72; } }
+    @keyframes twinkle { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
 
     .cursor   { animation: blink 1.1s steps(1) infinite; }
     .armR     { animation: typeArmR 0.5s ease-in-out infinite; transform-origin: 170px 168px; }
@@ -42,6 +73,7 @@
     .badge  { animation: float 3s ease-in-out infinite; }
     .badge2 { animation: float 3s ease-in-out infinite 0.6s; }
     .badge3 { animation: float 3s ease-in-out infinite 1.2s; }
+    .badge4 { animation: float 3s ease-in-out infinite 1.8s; }
     .screen-glow { animation: glow 2.4s ease-in-out infinite; }
     .steam1 { animation: steam 2s ease-in infinite; }
     .steam2 { animation: steam 2s ease-in infinite 0.7s; }
@@ -50,129 +82,152 @@
     .l1{animation-delay:.0s}.l2{animation-delay:.08s}.l3{animation-delay:.16s}.l4{animation-delay:.24s}
     .l5{animation-delay:.32s}.l6{animation-delay:.40s}.l7{animation-delay:.48s}.l8{animation-delay:.56s}
     .l9{animation-delay:.64s}.l10{animation-delay:.72s}.l11{animation-delay:.80s}.l12{animation-delay:.88s}
+    .tw1 { animation: twinkle 2.6s ease-in-out infinite; }
+    .tw2 { animation: twinkle 2.6s ease-in-out infinite .9s; }
+    .tw3 { animation: twinkle 2.6s ease-in-out infinite 1.7s; }
   </style>
 
-  <rect class="bg" width="900" height="260" rx="10"/>
+  <rect width="900" height="260" rx="10" fill="url(#bgGrad)"/>
 
   <!-- faint room grid -->
-  <g opacity="0.6">
+  <g opacity="0.7">
     <line class="wall-line" x1="0" y1="30" x2="900" y2="30"/>
     <line class="wall-line" x1="0" y1="60" x2="900" y2="60"/>
     <line class="wall-line" x1="0" y1="205" x2="900" y2="205"/>
   </g>
 
+  <!-- pixel stars -->
+  <g>
+    <rect class="cyan tw1"   x="480" y="40"  width="3" height="3"/>
+    <rect class="pink tw2"   x="860" y="52"  width="3" height="3"/>
+    <rect class="amber tw3"  x="820" y="200" width="3" height="3"/>
+    <rect class="green tw2"  x="390" y="212" width="3" height="3"/>
+    <rect class="purple tw1" x="700" y="30"  width="3" height="3"/>
+  </g>
+
   <!-- floor -->
   <rect x="0" y="205" width="900" height="55" fill="url(#floorGrad)"/>
+  <rect x="0" y="205" width="900" height="2" fill="#7c5cff" opacity="0.5"/>
 
   <!-- desk lamp on the shelf -->
   <g class="lamp">
-    <rect class="mgray" x="60" y="18" width="6" height="22"/>
-    <polygon class="lgray" points="45,18 81,18 70,4 56,4"/>
-    <rect class="white" x="60" y="8" width="6" height="6"/>
+    <polygon points="40,18 86,18 96,74 30,74" fill="url(#lampGlow)"/>
+    <rect class="orange" x="60" y="18" width="6" height="22"/>
+    <polygon class="red" points="45,18 81,18 70,4 56,4"/>
+    <rect class="amber" x="60" y="8" width="6" height="6"/>
   </g>
 
   <!-- desk -->
-  <rect class="dgray" x="30" y="188" width="330" height="12" rx="2"/>
-  <rect class="xdgray" x="30" y="200" width="330" height="5"/>
-  <rect class="xdgray" x="45" y="205" width="12" height="42"/>
-  <rect class="xdgray" x="335" y="205" width="12" height="42"/>
-  <rect class="dgray" x="35" y="244" width="320" height="6"/>
+  <rect class="wood" x="30" y="188" width="330" height="12" rx="2"/>
+  <rect class="wood-d" x="30" y="200" width="330" height="5"/>
+  <rect class="wood-d" x="45" y="205" width="12" height="42"/>
+  <rect class="wood-d" x="335" y="205" width="12" height="42"/>
+  <rect class="wood" x="35" y="244" width="320" height="6"/>
 
   <!-- keyboard + mouse -->
-  <rect class="dgray" x="150" y="180" width="70" height="10" rx="1"/>
-  <rect class="mgray" x="153" y="182" width="64" height="6" opacity="0.5"/>
-  <rect class="dgray" x="228" y="182" width="10" height="8" rx="2"/>
+  <rect class="indigo" x="150" y="180" width="70" height="10" rx="1"/>
+  <rect class="cyan" x="153" y="182" width="64" height="6" opacity="0.6"/>
+  <rect class="pink" x="228" y="182" width="10" height="8" rx="2"/>
 
   <!-- coffee mug with steam -->
   <g>
-    <rect class="lgray" x="70" y="172" width="16" height="16" rx="2"/>
-    <rect class="xdgray" x="73" y="176" width="10" height="8"/>
-    <rect class="mgray" x="86" y="176" width="5" height="6"/>
-    <rect class="mgray steam1" width="2" height="8" x="74" y="160"/>
-    <rect class="mgray steam2" width="2" height="8" x="80" y="160"/>
+    <rect class="teal" x="70" y="172" width="16" height="16" rx="2"/>
+    <rect class="wood-d" x="73" y="176" width="10" height="8"/>
+    <rect class="teal" x="86" y="176" width="5" height="6"/>
+    <rect class="lime steam1" width="2" height="8" x="74" y="160" opacity="0.7"/>
+    <rect class="cyan steam2" width="2" height="8" x="80" y="160" opacity="0.7"/>
   </g>
 
   <!-- chair -->
-  <rect class="xdgray" x="118" y="196" width="8" height="30"/>
-  <rect class="xdgray" x="176" y="196" width="8" height="30"/>
-  <rect class="dgray" x="112" y="190" width="80" height="10" rx="2"/>
+  <rect class="indigo" x="118" y="196" width="8" height="30"/>
+  <rect class="indigo" x="176" y="196" width="8" height="30"/>
+  <rect class="violet" x="112" y="190" width="80" height="10" rx="2"/>
 
   <!-- character: chibi coder, sitting -->
   <g>
     <!-- hair -->
-    <rect class="xdgray" x="128" y="94" width="36" height="10" rx="2"/>
-    <rect class="xdgray" x="124" y="100" width="8" height="14"/>
-    <rect class="xdgray" x="160" y="100" width="8" height="14"/>
+    <rect class="hair" x="128" y="94" width="36" height="10" rx="2"/>
+    <rect class="hair" x="124" y="100" width="8" height="14"/>
+    <rect class="hair" x="160" y="100" width="8" height="14"/>
     <!-- head -->
-    <rect class="lgray" x="132" y="104" width="28" height="26" rx="3"/>
-    <rect class="xdgray" x="140" y="114" width="4" height="4"/>
-    <rect class="xdgray" x="152" y="114" width="4" height="4"/>
+    <rect class="skin" x="132" y="104" width="28" height="26" rx="3"/>
+    <rect class="hair" x="140" y="114" width="4" height="4"/>
+    <rect class="hair" x="152" y="114" width="4" height="4"/>
+    <rect class="pink" x="134" y="122" width="4" height="3" opacity="0.7"/>
+    <rect class="pink" x="154" y="122" width="4" height="3" opacity="0.7"/>
     <!-- hoodie torso -->
-    <rect class="dgray" x="120" y="130" width="52" height="46" rx="6"/>
-    <rect class="mgray" x="140" y="134" width="12" height="10" rx="2"/>
+    <rect class="violet" x="120" y="130" width="52" height="46" rx="6"/>
+    <rect class="cyan" x="140" y="134" width="12" height="10" rx="2"/>
+    <rect class="amber" x="124" y="152" width="6" height="6"/>
     <!-- legs on stool -->
-    <rect class="dgray" x="126" y="176" width="18" height="20" rx="2"/>
-    <rect class="dgray" x="148" y="176" width="18" height="20" rx="2"/>
-    <rect class="xdgray" x="124" y="192" width="22" height="8" rx="2"/>
-    <rect class="xdgray" x="146" y="192" width="22" height="8" rx="2"/>
+    <rect class="indigo" x="126" y="176" width="18" height="20" rx="2"/>
+    <rect class="indigo" x="148" y="176" width="18" height="20" rx="2"/>
+    <rect class="red" x="124" y="192" width="22" height="8" rx="2"/>
+    <rect class="red" x="146" y="192" width="22" height="8" rx="2"/>
     <!-- arms typing -->
     <g class="armL">
-      <rect class="dgray" x="104" y="140" width="18" height="12" rx="4"/>
-      <rect class="lgray" x="100" y="150" width="14" height="10" rx="3"/>
+      <rect class="violet" x="104" y="140" width="18" height="12" rx="4"/>
+      <rect class="skin" x="100" y="150" width="14" height="10" rx="3"/>
     </g>
     <g class="armR">
-      <rect class="dgray" x="170" y="140" width="18" height="12" rx="4"/>
-      <rect class="lgray" x="176" y="150" width="14" height="10" rx="3"/>
+      <rect class="violet" x="170" y="140" width="18" height="12" rx="4"/>
+      <rect class="skin" x="176" y="150" width="14" height="10" rx="3"/>
     </g>
   </g>
 
   <!-- monitor -->
-  <rect class="xdgray" x="255" y="188" width="30" height="10"/>
-  <rect class="dgray" x="235" y="196" width="70" height="8" rx="2"/>
+  <rect class="indigo" x="255" y="188" width="30" height="10"/>
+  <rect class="violet" x="235" y="196" width="70" height="8" rx="2"/>
+  <ellipse cx="290" cy="114" rx="130" ry="115" fill="url(#screenHalo)"/>
   <g class="screen-glow">
-    <rect class="mgray" x="215" y="48" width="150" height="132" rx="6"/>
+    <rect class="cyan" x="215" y="48" width="150" height="132" rx="6"/>
   </g>
   <rect class="screen" x="223" y="56" width="134" height="116" rx="4"/>
 
   <!-- animated terminal code inside monitor -->
-  <rect class="white line1" x="233" y="68"  width="60" height="6"/>
-  <rect class="mgray line2" x="233" y="82"  width="90" height="6"/>
-  <rect class="white line3" x="233" y="96"  width="45" height="6"/>
-  <rect class="mgray line4" x="233" y="110" width="75" height="6"/>
-  <rect class="white line5" x="233" y="124" width="55" height="6"/>
+  <rect class="green line1"  x="233" y="68"  width="60" height="6"/>
+  <rect class="cyan line2"   x="233" y="82"  width="90" height="6"/>
+  <rect class="amber line3"  x="233" y="96"  width="45" height="6"/>
+  <rect class="pink line4"   x="233" y="110" width="75" height="6"/>
+  <rect class="lime line5"   x="233" y="124" width="55" height="6"/>
   <rect class="white cursor" x="233" y="138" width="10" height="10"/>
 
   <!-- floating tech badges -->
   <g class="badge">
-    <rect class="white" x="410" y="60" width="14" height="14"/>
-    <text x="430" y="72" fill="#ffffff" font-size="14">React</text>
+    <rect class="cyan" x="410" y="52" width="14" height="14"/>
+    <text x="430" y="64" fill="#67e8f9" font-size="14">React</text>
   </g>
   <g class="badge2">
-    <rect class="white" x="410" y="98" width="14" height="14"/>
-    <text x="430" y="110" fill="#ffffff" font-size="14">Python</text>
+    <rect class="amber" x="410" y="88" width="14" height="14"/>
+    <text x="430" y="100" fill="#fcd34d" font-size="14">Python</text>
   </g>
   <g class="badge3">
-    <rect class="white" x="410" y="136" width="14" height="14"/>
-    <text x="430" y="148" fill="#ffffff" font-size="14">JavaScript</text>
+    <rect class="pink" x="410" y="124" width="14" height="14"/>
+    <text x="430" y="136" fill="#f9a8d4" font-size="14">JavaScript</text>
+  </g>
+  <g class="badge4">
+    <rect class="green" x="410" y="160" width="14" height="14"/>
+    <text x="430" y="172" fill="#6ee7b7" font-size="14">Agentic AI</text>
   </g>
 
   <!-- pixel letter reveal: name -->
-  <g font-size="28" letter-spacing="4" font-weight="bold">
-    <text class="letter l1"  x="530" y="90"  fill="#ffffff">V</text>
-    <text class="letter l2"  x="557" y="90"  fill="#ffffff">I</text>
-    <text class="letter l3"  x="573" y="90"  fill="#ffffff">N</text>
-    <text class="letter l4"  x="600" y="90"  fill="#ffffff">E</text>
-    <text class="letter l5"  x="624" y="90"  fill="#ffffff">E</text>
-    <text class="letter l6"  x="648" y="90"  fill="#ffffff">T</text>
-    <text class="letter l7"  x="686" y="90"  fill="#ffffff">M</text>
-    <text class="letter l8"  x="718" y="90"  fill="#ffffff">I</text>
-    <text class="letter l9"  x="734" y="90"  fill="#ffffff">T</text>
-    <text class="letter l10" x="756" y="90"  fill="#ffffff">T</text>
-    <text class="letter l11" x="778" y="90"  fill="#ffffff">A</text>
-    <text class="letter l12" x="802" y="90"  fill="#ffffff">L</text>
+  <g font-size="28" letter-spacing="4" font-weight="bold" fill="url(#nameGrad)">
+    <text class="letter l1"  x="530" y="90">V</text>
+    <text class="letter l2"  x="551" y="90">I</text>
+    <text class="letter l3"  x="572" y="90">N</text>
+    <text class="letter l4"  x="593" y="90">A</text>
+    <text class="letter l5"  x="614" y="90">Y</text>
+    <text class="letter l6"  x="635" y="90">A</text>
+    <text class="letter l7"  x="656" y="90">K</text>
+    <text class="letter l8"  x="696" y="90">P</text>
+    <text class="letter l9"  x="717" y="90">A</text>
+    <text class="letter l10" x="738" y="90">W</text>
+    <text class="letter l11" x="759" y="90">A</text>
+    <text class="letter l12" x="780" y="90">R</text>
   </g>
+  <rect x="530" y="100" width="272" height="3" rx="1.5" fill="url(#nameGrad)" opacity="0.8"/>
 
-  <text x="530" y="122" fill="#999999" font-size="15">&gt; frontend_dev.build() &amp;&amp; ml.train()</text>
-  <text x="530" y="146" fill="#5f5f5f" font-size="13">while(alive) { learn(); code(); repeat(); }</text>
-  <rect class="white cursor" x="530" y="156" width="10" height="14"/>
+  <text x="530" y="128" fill="#67e8f9" font-size="15">&gt; agentic_ai.build() &amp;&amp; rag.deploy()</text>
+  <text x="530" y="152" fill="#c084fc" font-size="13">while(alive) { learn(); code(); repeat(); }</text>
+  <rect class="amber cursor" x="530" y="162" width="10" height="14"/>
 </svg>
