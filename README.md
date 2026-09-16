@@ -94,7 +94,7 @@ motto: "code. Ride. Sleep. repeat."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](<https://www.linkedin.com/in/vineet-mittal-52b5901b3/(https://www.linkedin.com/in/vinayak-pawar-cse/)>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-pawar-cse/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayakpawar.co@gmail.com)
 
 </div>
