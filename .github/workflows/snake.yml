@@ -1,9 +1,9 @@
-name: Generate Snake Animation
+name: Generate Pac-Man Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs once every day
-  workflow_dispatch: # allows manual run from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -14,13 +14,10 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation SVG
-        uses: Platane/snk@v3
+      - name: Generate Pac-Man animation SVG
+        uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
           github_user_name: ShickenShawarma20
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push output to "output" branch
         uses: crazy-max/ghaction-github-pages@v4
