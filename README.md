@@ -39,12 +39,15 @@ motto: "code. Ride. Sleep. repeat."
 
 <div align="center">
 
-|                                                     Frontend                                                      |                                                     Machine Learning                                                     |                                               Tools                                                |
-| :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|        ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)         |          ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)           | ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white) |            ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)             |
-|          ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)          |            ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)            | ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) |          ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)           | ![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=white)  |        ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)        |
-|        ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)         | ![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white) |
+
+
+| Frontend | Machine Learning | DSA / Core | Tools |
+|:---:|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white) | ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white) | ![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) | ![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white) | | ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white) |
+
 
 </div>
 
