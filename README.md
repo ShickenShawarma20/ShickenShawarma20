@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/pixel-banner.svg" alt="Vinayak Pawar pixel banner" width="100%" />
+<img src="./Assets/pixel-banner.svg" alt="Vinayak Pawar pixel banner" width="100%" />
 
 <br/>
 
